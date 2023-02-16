@@ -1,4 +1,4 @@
-Khwaja Ibrahim Ashai + ...
+Khwaja Ibrahim Ashai + ?
  c: Khwaja Mohammad Tahir Rafiqui, Khwaja Ahmed Zahid, Daughter(Married to Khwaja Noor-ud-Din Ashai)
 Khwaja Ibrahim Ashai
  n: Info to be updated
@@ -13,3 +13,25 @@ Khwaja Ibrahim
  n: Died in his fathers lifetime.
 Khwaja Mohammad Tahir Rafiqui + ?
  c: Al-Shaikh Abu-Muhammad Sharif (R.A)
+
+Al-Shaikh Abu-Muhammad Sharif (R.A)
+ n: Khwaja Ibrahim's grandson and Khalifa 
+Al-Shaikh Abu-Muhammad Sharif (R.A) + ... 
+ c: Khwaja Mohammad Rafiq Shah Rafiqui
+
+Khwaja Mohammad Rafiq Shah Rafiqui
+
+Khwaja Mohammad Rafiq Shah Rafiqui + ...
+ c: Khwaja Hamza Rafiqui
+
+Khwaja Hamza Rafiqui
+ l: Safar 1 1137 AH - ?
+
+Khwaja Hamza Rafiqui + ...
+ c: Khwaja Moin-ud-Din Rafiqui
+
+Khwaja Moin-ud-Din Rafiqui
+ l: Ramadan 22 1083 AH - ?
+
+Khwaja Moin-ud-Din Rafiqui + ...
+ c: Sheikh Yahiya Rafiqui, Sheikh Mustafa Rafiqui

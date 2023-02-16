@@ -1,0 +1,173 @@
+.label {
+    font-family: 'Arial', 'sans-serif';
+    text-align: center;
+    /* vertical-align: middle; maybe not needed for this application */
+    position: absolute;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    cursor: pointer;
+    display: inline-block;
+    min-width: 80px;
+    /* Adjust this value as needed */
+}
+
+.label img {
+    max-width: 70px;
+}
+
+.lifespan {
+    font-size: 10pt;
+    white-space: nowrap;
+}
+
+#control-panel {
+    position: fixed;
+    width: 100%;
+    background: #f7f7f7;
+    border-bottom: 1px solid black;
+    z-index: 10;
+    padding: 8px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f1f1f1;
+}
+
+.pos-root {
+    border-color: yellow;
+    border-width: 5px;
+}
+
+.label:hover {
+    background: #CCF;
+    z-index: 10;
+}
+
+.pos-ancestor {
+    border-color: orange;
+    border-width: 5px;
+}
+
+.text-ancestor {
+    color: orange;
+}
+
+.pos-blood {
+    border-color: red;
+    border-width: 3px;
+}
+
+.text-blood {
+    color: red;
+}
+
+.pos-descendant {
+    border-color: olive;
+    border-width: 5px;
+}
+
+.text-descendant {
+    color: olive;
+}
+
+.pos-other {
+    border-color: black;
+    border-width: 1px;
+}
+
+.text-other {
+    color: black;
+}
+
+.drawn-line {
+    z-index: -1;
+    border-width: 1px !important;
+}
+
+.label.has-info {
+    background-image: url('info-icon.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 10px 10px;
+}
+
+.label:hover .info {
+    display: block;
+}
+
+#panel-bottom ul {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.tree {
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+.node {
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.connector {
+    border-left: 1px solid #ccc;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    width: 0;
+}
+
+.connector:first-child {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.connector:last-child {
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.person {
+    font-size: 18px;
+    padding: 20px;
+}
+
+.line {
+    width: 4px;
+    background-color: black;
+}
+
+/*  Responsive */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+
+    .person {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .tree {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .line {
+        width: 2px;
+    }
+}
