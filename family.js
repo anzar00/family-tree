@@ -3,7 +3,7 @@
 
 // Override these settings:
 var familyDataFilename = "myFamily.txt"; // Your own family.txt
-var defaultRootName = 'Leopold';                // Someone in your family
+var defaultRootName = 'Khwaja Ibrahim Ashai';                // Someone in your family
 var lineHeight = 280;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
