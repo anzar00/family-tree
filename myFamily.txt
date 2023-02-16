@@ -12,26 +12,79 @@ Khwaja Mohammad
 Khwaja Ibrahim
  n: Died in his fathers lifetime.
 Khwaja Mohammad Tahir Rafiqui + ?
- c: Al-Shaikh Abu-Muhammad Sharif (R.A)
+ c: Shaikh Abu-Muhammad Sharif (R.A)
 
-Al-Shaikh Abu-Muhammad Sharif (R.A)
+Shaikh Abu-Muhammad Sharif (R.A)
  n: Khwaja Ibrahim's grandson and Khalifa 
-Al-Shaikh Abu-Muhammad Sharif (R.A) + ... 
+Shaikh Abu-Muhammad Sharif (R.A) + ? 
  c: Khwaja Mohammad Rafiq Shah Rafiqui
 
 Khwaja Mohammad Rafiq Shah Rafiqui
 
-Khwaja Mohammad Rafiq Shah Rafiqui + ...
+Khwaja Mohammad Rafiq Shah Rafiqui + ?
  c: Khwaja Hamza Rafiqui
 
 Khwaja Hamza Rafiqui
  l: Safar 1 1137 AH - ?
 
-Khwaja Hamza Rafiqui + ...
+Khwaja Hamza Rafiqui + ?
  c: Khwaja Moin-ud-Din Rafiqui
 
 Khwaja Moin-ud-Din Rafiqui
  l: Ramadan 22 1083 AH - ?
 
-Khwaja Moin-ud-Din Rafiqui + ...
+Khwaja Moin-ud-Din Rafiqui + ?
  c: Sheikh Yahiya Rafiqui, Sheikh Mustafa Rafiqui
+
+Sheikh Yahiya Rafiqui
+ l: 19 - Dhu al Qa'dah 1185 AH 
+Sheikh Mustafa Rafiqui
+ l: 4 - Rajab 1194 AH
+
+Sheikh Yahiya Rafiqui + ?
+ c: Sheikh Aslam Rafiqui, Sheikh Abdul Ali
+Sheikh Mustafa Rafiqui + ?
+ c: Sheikh Ahmad Shah, Sheikh Mohammad Raza, Sheikh Abdullah
+
+Sheikh Aslam Rafiqui
+ n: 17 Muharram - 1212 AH
+Sheikh Aslam Rafiqui + ?
+ c: Sheikh Maqsood, Sheikh Ibrahim
+
+Sheikh Ibrahim + ?
+ c: Sheikh Abdul, Sheikh Abdul Nazir
+
+Sheikh Abdul Nazir
+ l: 1225 AH - 1273 AH
+
+Sheikh Abdul Nazir + ?
+ c: Peer Abdullah Rafiqui
+
+
+Sheikh Abdul Ali + ?
+ c: Sheikh Abdul Ahad
+
+Sheikh Abdul Ahad + ?
+ c: Sheikh Khaleel
+
+Sheikh Ahmad Shah
+ l: 1175 - 1219 AH
+
+Sheikh Ahmad Shah + ?
+ c: Sheikh Tayab Shah Rafiqui, Sheikh Qamar-ud-Din Rafiqui
+
+Sheikh Tayab Shah Rafiqui
+ l: 1191 - 1226 AH
+
+Sheikh Qamar-ud-Din Rafiqui
+ n: Khaan-Damaad (Son-in-Law) of Hidiyat ullah Mattoo (R.A)
+
+Sheikh Mohammad Raza
+ n: No Children
+ l: 1274 AH - ?
+
+Sheikh Abdullah + ?
+ c: Sheikh Noor-ud-Din
+
+Sheikh Noor-ud-Din
+ n: No Children
