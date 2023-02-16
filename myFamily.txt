@@ -74,10 +74,67 @@ Sheikh Ahmad Shah + ?
  c: Sheikh Tayab Shah Rafiqui, Sheikh Qamar-ud-Din Rafiqui
 
 Sheikh Tayab Shah Rafiqui
- l: 1191 - 1226 AH
+ l: 1191 - 1266 AH
+
+Sheikh Tayab Shah Rafiqui + ?
+ c: Sheikh Mustafa Shah
+
+Sheikh Mustafa Shah
+ l: - 1294 AH
 
 Sheikh Qamar-ud-Din Rafiqui
  n: Khaan-Damaad (Son-in-Law) of Hidiyat ullah Mattoo (R.A)
+
+Sheikh Qamar-ud-Din Rafiqui + Daughter of Hidiyat ullah Mattoo (R.A)
+ c: Mohammad Umar Shah, Abdul Qadir Shah
+
+Daughter of Hidiyat ullah Mattoo (R.A)
+ n: Married to Sheikh Qamar-ud-Din Rafiqui
+
+Hidiyat ullah Mattoo (R.A) + ?
+ c: Daughter of Hidiyat ullah Mattoo (R.A), Mullah Ameer-ud-Din Mufti
+
+Mullah Ameer-ud-Din Mufti
+ l: - 20 Safar 1258 AH
+ n: No children.
+
+Mullah Akram Ullah Mattoo + ?
+ c: Mullah Abdul Wahab Mattoo, Hidiyat ullah Mattoo (R.A)
+
+Mullah Abdul Wahab Mattoo
+ n: No children.
+ n: Burried in the courtyard of Abdul Wahab Mattoo Mosque, near Jamia Masjid, Srinagar.
+
+Mullah Abdul Hakim Mattoo + ?
+ c: Mullah Akram Ullah Mattoo
+
+Mullah Abdul Hakim Mattoo
+ l: - 1153 AH
+ n: Burried at Mazar-e-Sharif, Hazrat Khwaja Baqi Billah Naqshbandi, Delhi
+
+Mohammad Umar Shah
+ n: Khaan Damaad (Son-in-Law) of Asad-ullah Sahib Bandey, Beeru Budgam
+
+Mohammad Umar Shah + ?
+ c: Ahmad Shah, Mohammad Shah, Mustafa Shah
+
+Ahmad Shah
+ n: No Children
+
+Mohammad Shah + ?
+ c: Peer Yusuf Shah
+
+Peer Yusuf Shah
+ n: No Children
+
+Mustafa Shah + ?
+ c: Peer Mouhui-ud-Din Shah, Peer Haam-ud-Din Shah
+
+Peer Mouhui-ud-Din Shah + ?
+ c: Mohammad Yaseen Shah
+
+Peer Haam-ud-Din Shah + ?
+ c: Shabir Shah Sahib
 
 Sheikh Mohammad Raza
  n: No Children
@@ -88,3 +145,78 @@ Sheikh Abdullah + ?
 
 Sheikh Noor-ud-Din
  n: No Children
+
+Abdul Qadir Shah + ?
+ c: Peer Nasar Shah, Peer Abdul Ghani Shah, Peer Sanna-ul-Allah, Peer Habib-ul-Allah, Daughter 1st, Daughter 2nd (Maarried to Abdul Samad Ashai)
+
+Peer Abdul Ghani Shah + ?
+ c: Peer Mahar-ud-Din Chattbal
+
+Peer Mahar-ud-Din Chattbal + ?
+ c: Peer Mohammad Chattbal
+
+Peer Sanna-ul-Allah + ?
+ c: Ghulam Ahmad Shah
+
+Ghulam Ahmad Shah
+ n: Khaan Damaad (Son-in-Law) of Maulvi Ghulam Nabi Shah
+ n: Nalbandpora, Safaqadal
+ 
+Ghulam Ahmad Shah + ?
+ c: Maulvi Saif-ud-Din, Maulvi Aziz-ud-Din 
+Peer Habib-ul-Allah
+ n: No Children
+ n: Burried at Rajwar, Handwara
+
+Daughter 2nd (Maarried to Abdul Samad Ashai) + ?
+ c: Ghulam Qadir Ashai,  Ghulam Muhammad Ashai
+
+Ghulam Qadir Ashai + ?
+ c: Ghulam Ahmad Ashai
+
+Ghulam Ahmad Ashai
+ n: Former Registrar of the University of Kashmir
+
+Peer Nasar Shah + First Wife 
+ c: Peer Mohammad Shah I, Peer Mohammad Shah II, Peer Ahad Shah
+
+Peer Mohammad Shah I
+ n: Died in early childhood
+
+Peer Mohammad Shah II + ?
+ c: Professor Mohammad Hussain Qadri, Mohammad Amin Qadri
+
+Second Wife + Peer Nasar Shah
+ c: Peer Hasan Shah, Peer Kabir Shah, Peer Khaleel Shah
+
+Peer Hasan Shah
+ n: Burried at Handwara
+
+Peer Hasan Shah + ?
+ c: Mohammad Yusuf Shah, Daughter (Married to Sayeed Sahib Watal Kral)
+
+Mohammad Yusuf Shah
+ n: Zaina Kadal, Srinagar 
+ n: Expired
+
+Mohammad Yusuf Shah + ?
+ c: Ghulam Mustafa, Mohammad Ashraf, Mohammad Afzal, Innayat-ul-Allah
+
+Peer Kabir Shah + ?
+ c: Daughter(Married to Ghulam Nabi Qureshi)
+
+Peer Khaleel Shah + ?
+ c: Peer Ahmad Shah, Peerzada Ghulam Mohammad, Peer Ghulam Qadir, Peerzada Meraj-ud-Din, Peerzada Mohammad Shafi, Zainab Mehbooba (Daughter)
+
+Peer Ahmad Shah
+
+Peerzada Ghulam Mohammad
+
+Peer Ghulam Qadir
+
+Peerzada Meraj-ud-Din
+
+Peerzada Mohammad Shafi
+
+Zainab Mehbooba (Daughter) + ?
+ c: Abdul Majid Kamili
