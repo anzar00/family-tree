@@ -210,13 +210,20 @@ Peer Khaleel Shah + ?
 
 Peer Ahmad Shah
 
-Peerzada Ghulam Mohammad
+Peerzada Ghulam Mohammad + ?
+ c: Shahid Peerzada, Tariq Mehmood
 
-Peer Ghulam Qadir
+Peer Ghulam Qadir + ?
+ c: Faisal Azmat Shah
 
-Peerzada Meraj-ud-Din
+Peerzada Meraj-ud-Din + ?
+ c: Dilshad Peerzada
 
-Peerzada Mohammad Shafi
+Peerzada Mohammad Shafi + ?
+ c: Junaid Peerzada, Jasmin Peerzada
 
 Zainab Mehbooba (Daughter) + ?
  c: Abdul Majid Kamili
+
+Faisal Azmat Shah + ?
+ c: Peerzada Anzar Azmat
