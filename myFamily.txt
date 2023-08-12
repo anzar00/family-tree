@@ -265,7 +265,7 @@ Dr. Aafiya Shafi
  n: Marreid to Ayaz Ahmad Chisti
 
 Dr. Peerzada Junaid Shafi + Khyber
- c: 
+ C: Ayesha 
 
 Dr. Peerzada Jasmin Shafi + Dr. Samreen 
  c: Abdul Manan, Hareem 
