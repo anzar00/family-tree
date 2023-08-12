@@ -208,19 +208,20 @@ Peer Kabir Shah + ?
 Peer Khaleel Shah + ?
  c: Peer Ahmad Shah, Peerzada Ghulam Mohammad, Peer Ghulam Qadir, Peerzada Meraj-ud-Din, Peerzada Mohammad Shafi, Zainab Mehbooba (Daughter)
 
-Peer Ahmad Shah
+Peer Ahmad Shah + Aamina Begum
+ c: Arifa Jan
 
-Peerzada Ghulam Mohammad + ?
- c: Shahid Peerzada, Tariq Mehmood
+Peerzada Ghulam Mohammad + Mehmooda Qureshi
+ c: Peerzada Shahid Mehmood, Shameema Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
 
-Peer Ghulam Qadir + ?
- c: Faisal Azmat Shah
+Peer Ghulam Qadir + Syed Shamas-un-Nisa
+ c: Nuzhat Nasreen, Nighat Nasreen, Faisal Azmat Shah, Rabia Tabasum
 
-Peerzada Meraj-ud-Din + ?
- c: Dilshad Peerzada
+Peerzada Meraj-ud-Din + Gulshada Kirmani
+ c: Zahida Meraj, Peerzada Dilshad Meraj, Nasreen Meraj, Shabila Meraj
 
-Peerzada Mohammad Shafi + ?
- c: Junaid Peerzada, Jasmin Peerzada
+Peerzada Mohammad Shafi + Kaiser Hamdani
+ c: Aafiya Shafi, Peerzada Junaid Shafi, Peerzada Jasmin Shafi 
 
 Zainab Mehbooba (Daughter) + ?
  c: Abdul Majid Kamili
