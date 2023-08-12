@@ -211,6 +211,9 @@ Peer Khaleel Shah + ?
 Peer Ahmad Shah + Aamina Begum
  c: Arifa Jan
 
+Arifa Jan
+ n: Married to Abdul Majeed Kamili
+
 Peerzada Ghulam Mohammad + Mehmooda Qureshi
  c: Peerzada Shahid Mehmood, Shameema Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
 
@@ -220,21 +223,60 @@ Peerzada Shahid Mehmood + ?
 Shameema Mehmood
  n: Married to Suhail Ahmed Dhaar
 
+Rubina Mehmood
+ n: Married to Riyaz Ahmad Fazili
+
 Peerzada Tariq Mehmood + Asma Altaf 
+ c: Basim Peerzada, Daniya Peerzada, Muiz Peerzada
 
 Peer Ghulam Qadir + Syed Shamas-un-Nisa
  c: Nuzhat Nasreen, Nighat Nasreen, Faisal Azmat Shah, Rabia Tabasum
 
+Nuzhat Nasreen
+ n: Married to Dr. Arshad Ahmad Mukhdoomi
+
+Nighat Nasreen
+ n: Married to Javed Ahmad Kawoosa
+
+Faisal Azmat Shah + Andaleeb Meraj
+ c: Peerzada Anzar Azmat, Ayesha Azmat
+
+Rabia Tabasum
+ n: Married to Arshad Nabi Sufi
+
 Peerzada Meraj-ud-Din + Gulshada Kirmani
  c: Zahida Meraj, Peerzada Dilshad Meraj, Nasreen Meraj, Shabila Meraj
 
+Zahida Meraj
+ n: Married to Javed Ahmad Qadri
+
+Peerzada Dilshad Meraj + Farhat Shah
+
+Nasreen Meraj
+ n: Married to Arshad Ahmad Kawoosa
+
+Shabila Meraj
+ n: Married to Tasduq Nazki
+
 Peerzada Mohammad Shafi + Kaiser Hamdani
- c: Aafiya Shafi, Peerzada Junaid Shafi, Peerzada Jasmin Shafi 
+ c: Dr. Aafiya Shafi, Peerzada Junaid Shafi, Peerzada Jasmin Shafi 
+
+Dr. Aafiya Shafi
+ n: Marreid to Ayaz Ahmad Chisti
+
+Dr. Peerzada Junaid Shafi + Khyber
+ c: 
+
+Dr. Peerzada Jasmin Shafi + Dr. Samreen 
+ c: Abdul Manan, Hareem 
 
 Zainab Mehbooba (Daughter) + ?
  c: Abdul Majid Kamili
 
-Faisal Azmat Shah + ?
- c: Peerzada Anzar Azmat
+Abdul Majid Kamili
+ n: Married to Arifa Jan
+ n: Khaan-Damaad (Son-in-Law) of Peer Ahmad Shah
+
+
 
  
