@@ -214,6 +214,11 @@ Peer Ahmad Shah + Aamina Begum
 Peerzada Ghulam Mohammad + Mehmooda Qureshi
  c: Peerzada Shahid Mehmood, Shameema Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
 
+Peerzada Shahid Mehmood + ?
+ c: Naveed Peerzada, Kaifa Peerzada 
+
+Shameema Mehmood
+ n: Married to Suhail Ahmed Dhaar
 Peer Ghulam Qadir + Syed Shamas-un-Nisa
  c: Nuzhat Nasreen, Nighat Nasreen, Faisal Azmat Shah, Rabia Tabasum
 
