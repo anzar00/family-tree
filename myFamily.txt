@@ -153,7 +153,7 @@ Peer Abdul Ghani Shah + ?
  c: Peer Mahar-ud-Din Chattbal
 
 Peer Mahar-ud-Din Chattbal + ?
- c: Peer Mohammad Chattbal
+ c: Peer Ghulam Mohammad Chattbal
 
 Peer Sanna-ul-Allah + ?
  c: Ghulam Ahmad Shah
