@@ -52,12 +52,12 @@ Sheikh Aslam Rafiqui + ?
  c: Sheikh Maqsood, Sheikh Ibrahim
 
 Sheikh Ibrahim + ?
- c: Sheikh Abdul, Sheikh Abdul Nazir
+ c: Sheikh Abdul Rasool, Sheikh Abdul Fareed
 
-Sheikh Abdul Nazir
+Sheikh Abdul Fareed
  l: 1225 AH - 1273 AH
 
-Sheikh Abdul Nazir + ?
+Sheikh Abdul Fareed + ?
  c: Peer Abdullah Rafiqui
 
 
