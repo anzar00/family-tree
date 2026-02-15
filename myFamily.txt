@@ -8,9 +8,9 @@ Khwaja Ahmed Zahid + ?
  c: Khwaja Mohammad, Khwaja Ibrahim
  n: Both his sons, Khwaja Mohammad and Khwaja Ibrahim, died in his lifetime.
 Khwaja Mohammad
- n: Died in his fathers lifetime.
+ n: Died in his father's lifetime.
 Khwaja Ibrahim
- n: Died in his fathers lifetime.
+ n: Died in his father's lifetime.
 Khwaja Mohammad Tahir Rafiqui + ?
  c: Shaikh Abu-Muhammad Sharif (R.A)
 
@@ -197,11 +197,14 @@ Peer Mohammad Shah I
 Peer Mohammad Shah II + ?
  c: Professor Mohammad Hussain Qadri, Mohammad Amin Qadri
 
+Peer Ahad Shah
+ n: Had a daughter named Atiqa who was married to Ali Shah Masoodi. He was taken in as Khaan-Damaad. After Atiqa's death, Ali Shah married another lady of Pampore, and they had a son named Ghulam Mohammad Masoodi, who resides at Rawalpora. 
+
 Second Wife + Peer Nasar Shah
  c: Peer Hasan Shah, Peer Kabir Shah, Peer Khaleel Shah
 
 Peer Hasan Shah
- n: Burried at Handwara
+ n: Buried at Handwara
 
 Peer Hasan Shah + ?
  c: Mohammad Yusuf Shah, Daughter (Married to Sayeed Sahib Watal Kadal)
@@ -235,7 +238,7 @@ Naveed Peerzada + Qamreen Nassar
  c: Iyaad Naveed Peerzada
 
 Kaifa Peerzada
- n: Married in Andrabi family of Malaratta
+ n: Married in the Andrabi family of Malaratta
 
 Shamim-ul-Mehmood
  n: Married to Suhail Ahmed Dhaar
