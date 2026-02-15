@@ -168,6 +168,13 @@ Peer Habib-ul-Allah
  n: No Children
  n: Burried at Rajwar, Handwara
 
+Maulvi Saif-ud-Din
+ n: Tulmulla, Ganderbal 
+ n: Former President, Anjuman Tableegh-ul-Islam
+
+Maulvi Aziz-ud-Din
+ n: Khaan Damaad (Son-in-Law) of Baha-ud-Din, Bandipora
+
 Daughter 2nd (Maarried to Abdul Samad Ashai) + ?
  c: Ghulam Qadir Ashai,  Ghulam Muhammad Ashai
 
