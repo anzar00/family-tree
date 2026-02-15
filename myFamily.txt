@@ -52,12 +52,12 @@ Sheikh Aslam Rafiqui + ?
  c: Sheikh Maqsood, Sheikh Ibrahim
 
 Sheikh Ibrahim + ?
- c: Sheikh Abdul Rasool, Sheikh Abdul Fareed
+ c: Sheikh Abdul Rasool, Sheikh Abdul Aziz
 
-Sheikh Abdul Fareed
+Sheikh Abdul Aziz
  l: 1225 AH - 1273 AH
 
-Sheikh Abdul Fareed + ?
+Sheikh Abdul Aziz + ?
  c: Peer Abdullah Rafiqui
 
 
@@ -204,7 +204,7 @@ Second Wife + Peer Nasar Shah
  c: Peer Hasan Shah, Peer Kabir Shah, Peer Khaleel Shah
 
 Peer Hasan Shah
- n: Buried at Handwara
+ n: Buried at Hunzora, Handwara
 
 Peer Hasan Shah + ?
  c: Mohammad Yusuf Shah, Daughter (Married to Sayeed Sahib Watal Kadal)
