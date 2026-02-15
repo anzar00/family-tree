@@ -215,7 +215,7 @@ Arifa Jan
  n: Married to Abdul Majeed Kamili
 
 Peerzada Ghulam Mohammad + Mehmooda Qureshi
- c: Peerzada Shahid Mehmood, Shameema Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
+ c: Peerzada Shahid Mehmood, Shamim-ul-Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
 
 Peerzada Shahid Mehmood + Arjumand Tahseen Naqueeb
  c: Naveed Peerzada, Kaifa Peerzada 
