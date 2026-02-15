@@ -217,10 +217,16 @@ Arifa Jan
 Peerzada Ghulam Mohammad + Mehmooda Qureshi
  c: Peerzada Shahid Mehmood, Shameema Mehmood, Peerzada Tariq Mehmood, Rubina Mehmood
 
-Peerzada Shahid Mehmood + ?
+Peerzada Shahid Mehmood + Arjumand Tahseen Naqueeb
  c: Naveed Peerzada, Kaifa Peerzada 
 
-Shameema Mehmood
+Naveed Peerzada + Qamreen Nassar
+ c: Iyaad Naveed Peerzada
+
+Kaifa Peerzada
+ n: Married in Andrabi family of Malaratta
+
+Shamim-ul-Mehmood
  n: Married to Suhail Ahmed Dhaar
 
 Rubina Mehmood
@@ -250,7 +256,7 @@ Peerzada Meraj-ud-Din + Gulshada Kirmani
 Zahida Meraj
  n: Married to Javed Ahmad Qadri
 
-Peerzada Dilshad Meraj + Farhat Shah
+Peerzada Dilshad Meraj + Farhat Mufti
 
 Nasreen Meraj
  n: Married to Arshad Ahmad Kawoosa
@@ -267,8 +273,8 @@ Dr. Aafiya Shafi
 Dr. Peerzada Junaid Shafi + Khyber
  c: Ayesha Junaid, Narwa Junaid
 
-Dr. Peerzada Jasmin Shafi + Dr. Samreen 
- c: Peerzada Abdul Manan Shah, Hareem Shah
+Dr. Peerzada Jasmin Shafi + Dr. Samreen Mirza
+ c: Peerzada Abdul Mannan Shah, Hareem Shah
 
 Zainab Mehbooba (Daughter) + ?
  c: Abdul Majid Kamili
