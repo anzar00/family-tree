@@ -147,7 +147,7 @@ Sheikh Noor-ud-Din
  n: No Children
 
 Abdul Qadir Shah + ?
- c: Peer Nasar Shah, Peer Abdul Ghani Shah, Peer Sanna-ul-Allah, Peer Habib-ul-Allah, Daughter 1st, Daughter 2nd (Maarried to Abdul Samad Ashai)
+ c: Peer Nasar Shah, Peer Abdul Ghani Shah, Peer Sanna-ul-Allah, Peer Habib-ul-Allah, Daughter 1st, Daughter 2nd (Married to Abdul Samad Ashai)
 
 Peer Abdul Ghani Shah + ?
  c: Peer Mahar-ud-Din Chattbal
@@ -175,7 +175,11 @@ Maulvi Saif-ud-Din
 Maulvi Aziz-ud-Din
  n: Khaan Damaad (Son-in-Law) of Baha-ud-Din, Bandipora
 
-Daughter 2nd (Maarried to Abdul Samad Ashai) + ?
+Daughter 1st
+ n: Married to Mustafa Shah Rafiqui 
+ n: No children
+
+Daughter 2nd (Married to Abdul Samad Ashai) + ?
  c: Ghulam Qadir Ashai,  Ghulam Muhammad Ashai
 
 Ghulam Qadir Ashai + ?
@@ -200,7 +204,7 @@ Peer Hasan Shah
  n: Burried at Handwara
 
 Peer Hasan Shah + ?
- c: Mohammad Yusuf Shah, Daughter (Married to Sayeed Sahib Watal Kral)
+ c: Mohammad Yusuf Shah, Daughter (Married to Sayeed Sahib Watal Kadal)
 
 Mohammad Yusuf Shah
  n: Zaina Kadal, Srinagar 
